@@ -29,4 +29,8 @@ The deep_link_value parameter in the Google Play button's OneLink URL points to 
 Notes: 
 All desktop users on discord.com who attempt to download Discord for Android are directed to the wrong store. This blocks the Android download conversion funnel entirely and may cause user confusion or loss of installs.
 
-Attachments: 
+## Attachments
+### Google Play button
+![Google Play button](screenshots/BR-003-homepage.png)
+### Wrong redirect
+![Wrong redirect](screenshots/BR-003-redirect.png)
