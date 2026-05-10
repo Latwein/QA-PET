@@ -6,10 +6,11 @@ On the discord.com homepage, the "Download for mobile" section contains two CTA 
 Steps to reproduce:
 
 1. Open https://discord.com in Google Chrome on Windows 11.
-2. Scroll down to the "Download for mobile" section.
-3. Locate the two download buttons: App Store and Google Play.
-4. Click the Google Play button.
-5. Observe the destination page that opens in the new tab.
+2. Click on the "Download" button in the page header
+3. Scroll down to the "Download for mobile" section.
+4. Locate the two download buttons: App Store and Google Play.
+5. Click the Google Play button.
+6. Observe the destination page that opens in the new tab.
 
 Expected result:
 User is redirected to the Google Play Store listing for Discord (play.google.com/…).
